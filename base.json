@@ -31,7 +31,7 @@
   "improvement_separator": "После 5го улучшения ты можешь выбирать также из списка ниже:",
   "harm": {
     "title": "Урон",
-    "empty_strings": 7,
+    "empty_strings": 5,
     "values": [
       [
         {
